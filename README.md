@@ -9,6 +9,20 @@
 	* Arguments
 	* `if` statements
 
+MY ANSWERS:
+
+Functions are like machines that give you the result you want depending on what you put inside
+Parameters are the variables you put inside the machine (function). For example there is a function machine made to pop up and say hello [name] where you can put whatever name you want. The parameter would be like the hole you made just for putting in the names.
+
+The argument are the names themselves when you put them inside the parameter hole to make the machine spit out the name you want.
+The IF statements are when you put a rule that happens only IF something else is happening. Like Superman is weak only  IF he is near kryptonite or Harry Potter can only do magic IF he is holding a wand.
+
+
+
+
+
+
+
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
 3. Download (clone) this project folder from GitHub.
